@@ -15,4 +15,4 @@ The simulation of each test scenario leads to output four key values (**Executio
 More details can be seen in other parts of this repository.
 
 # Paper
-Lu, Chengjie, et al. "Search-Based Selection and Prioritization of Test Scenarios for Autonomous Driving Systems." International Symposium on Search Based Software Engineering. Springer, Cham, 2021.
+Lu C., Zhang H., Yue T., Ali S. (2021) Search-Based Selection and Prioritization of Test Scenarios for Autonomous Driving Systems. In: O'Reilly UM., Devroey X. (eds) Search-Based Software Engineering. SSBSE 2021. Lecture Notes in Computer Science, vol 12914. Springer, Cham. https://doi.org/10.1007/978-3-030-88106-1_4
