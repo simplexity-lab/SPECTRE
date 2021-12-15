@@ -13,3 +13,6 @@ In SPECTRE, each scenario is characterized with a set of properties of the ego v
 The simulation of each test scenario leads to output four key values (**Execution Results** in Overview Figure): (1) whether a collision occurred with the scenario; (2) collision probability associated with the scenario, (3) the extent of demand on the ADS put by the scenario, and (4) diversity of the scenario as compared to the others. Based on these attributes, we define four optimization objectives.
 
 More details can be seen in other parts of this repository.
+
+# Paper
+Lu, Chengjie, et al. "Search-Based Selection and Prioritization of Test Scenarios for Autonomous Driving Systems." International Symposium on Search Based Software Engineering. Springer, Cham, 2021.
